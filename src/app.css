@@ -1,0 +1,32 @@
+html, body
+{
+  font:normal normal normal 100%/1.4 tahoma, sans-serif;
+  /* background:#f9f9f9; */
+  color:#000;
+}
+body
+{
+  font-size:0.8em;
+  margin:0;
+}
+.header_container{
+    background: purple;
+    color: white;
+    /* margin: 0px; */
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 1;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+.header_container h1{
+    margin:0px;
+}
+
+
+/* draggable targets */
+
+

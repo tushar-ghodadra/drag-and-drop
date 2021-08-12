@@ -1,0 +1,37 @@
+.main_section{
+    border: 1px solid lightgrey;
+    margin: 30px;
+    padding: 22px;
+}
+
+.drage_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.contex_drag{
+    width: 23%;
+    /* height: 300px; */
+    margin-left: 10px;
+    margin-top:10px;
+    border: 1px solid lightgray;
+}
+.header{
+    background: purple;
+    color: white;
+    padding: 1px;
+    display: flex;
+    justify-content: center;
+}
+.header p{
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.drag_value{
+    margin-top: 10px;
+    overflow-y: auto;
+    height: 238px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}

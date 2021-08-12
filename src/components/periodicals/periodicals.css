@@ -1,0 +1,20 @@
+.main_section{
+    border: 1px solid lightgrey;
+    margin: 30px;
+    padding: 22px;
+}
+
+.section{
+    display: flex;
+    flex-wrap: wrap;
+}
+.sub_Sec{
+    border: 1px solid gold;
+    height: 41px;
+    border-left: 4px solid gold;
+    /* margin: 0px; */
+    width: 200px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
